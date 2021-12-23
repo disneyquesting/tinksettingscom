@@ -26,13 +26,12 @@ export default {};
 </script>
 
 <style>
-.tinkLogo img {
-  margin-top: 150px;
-  max-width: 500px;
-}
-
 .tinkLinks {
   margin-top: 50px;
+}
+
+.tinkLinks img {
+  max-width: 150px;
 }
 
 .container {
@@ -66,7 +65,11 @@ export default {};
 }
 
 .tinkLogo {
-  max-width: 300px;
   margin-bottom: 50px;
+  margin-top: 150px;
+}
+
+.tinkLogo img {
+  max-width: 500px;
 }
 </style>
