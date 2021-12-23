@@ -27,12 +27,14 @@ export default {};
 
 <style>
 .tinkLogo img {
+  margin-top: 150px;
   max-width: 500px;
 }
 
 .tinkLinks {
   margin-top: 50px;
 }
+
 .container {
   min-height: 100vh;
   display: flex;
@@ -64,6 +66,7 @@ export default {};
 }
 
 .tinkLogo {
+  max-width: 300px;
   margin-bottom: 50px;
 }
 </style>
