@@ -1,6 +1,6 @@
 <template>
   <div class="consoleblockContents">
-    <h1>Settings</h1>
+    <h1>RetroTink Console Settings</h1>
     <ConsoleBlock />
 
     <nuxt />

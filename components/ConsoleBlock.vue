@@ -55,6 +55,14 @@ img {
   align-content: center;
 }
 
+.consoleBlocks img {
+  transition: opacity 1s ease;
+}
+
+.consoleBlocks img:hover {
+  opacity: 0.5;
+}
+
 .console {
   display: flex;
   justify-content: center;
