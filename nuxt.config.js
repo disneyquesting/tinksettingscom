@@ -3,11 +3,11 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'tinksettings',
+    title: 'TinkSettings.Com - Settings for the RetroTink 5X',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Repository of Settings for the RetroTink' }
+      { hid: 'description', name: 'description', content: 'Settings depository for the RetroTink 5x' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -17,9 +17,18 @@ module.exports = {
   ** Customize the progress bar color
   */
   loading: { color: '#3B8070' },
+  buildModules: [
+    '@nuxtjs/google-fonts'
+  ],
+  googleFonts: {
+    families: {
+      OpenSans: true
+    }
+  },
   /*
   ** Build configuration
   */
+ components: true,
   build: {
     /*
     ** Run ESLint on save
@@ -36,4 +45,3 @@ module.exports = {
     }
   }
 }
-
