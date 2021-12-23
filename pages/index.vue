@@ -11,6 +11,12 @@
       <p class="introText">
         To start, check out the <a href="/settings">Console Settings</a> page.
       </p>
+      <div class="tinkLinks">
+        <a href="https://www.retrotink.com/product-page/5x-pro"
+          ><img src="/images/5x.webp" alt="RetroTink 5X Purchase Link" />
+          <p>RetroTink 5x</p></a
+        >
+      </div>
     </div>
   </section>
 </template>
@@ -20,8 +26,12 @@ export default {};
 </script>
 
 <style>
-img {
+.tinkLogo img {
   max-width: 500px;
+}
+
+.tinkLinks {
+  margin-top: 50px;
 }
 .container {
   min-height: 100vh;

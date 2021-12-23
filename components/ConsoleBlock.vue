@@ -2,7 +2,7 @@
   <div class="consoleBlocks">
     <div class="console">
       <a href="/settings/sega"
-        ><img src="/consoles/Sega.png" alt="Sega Family Settings"
+        ><img src="/consoles/sega.png" alt="Sega Family Settings"
       /></a>
     </div>
     <div class="console">
