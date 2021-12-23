@@ -27,6 +27,16 @@
         <img src="/consoles/snk.png" alt="SNK Family Settings"
       /></a>
     </div>
+    <div class="console">
+      <a href="/settings/hudson">
+        <img src="/consoles/pcengine.png" alt="Hudson Family Settings"
+      /></a>
+    </div>
+    <div class="console">
+      <a href="/settings/atari">
+        <img src="/consoles/atari.png" alt="Atari Family Settings"
+      /></a>
+    </div>
   </div>
 </template>
 
