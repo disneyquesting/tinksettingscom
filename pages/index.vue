@@ -66,7 +66,7 @@ export default {};
 
 .tinkLogo {
   margin-bottom: 50px;
-  margin-top: 150px;
+  margin-top: 50px;
 }
 
 .tinkLogo img {
